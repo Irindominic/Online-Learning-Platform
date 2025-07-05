@@ -1,0 +1,1 @@
+function showAlert() { alert("Welcome to Learnova! Start your learning journey today."); }
